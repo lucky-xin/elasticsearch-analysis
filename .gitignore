@@ -1,0 +1,5 @@
+certs
+analysis-hanlp-data
+*.zip
+*.yaml
+deploy
