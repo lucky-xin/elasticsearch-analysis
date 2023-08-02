@@ -3,3 +3,4 @@ analysis-hanlp-data
 *.zip
 *.yaml
 deploy
+.idea
