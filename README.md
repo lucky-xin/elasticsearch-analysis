@@ -16,7 +16,7 @@ docker-compose up -d
 
 ### 1. HanLP分词器测试
 
-### 1.1 使用hanLP自带分词器
+### 1.1 使用HanLP自带分词器
 
 ```json lines
 POST _analyze
