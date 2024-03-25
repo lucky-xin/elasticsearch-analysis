@@ -1,4 +1,4 @@
-# [Elasticsearch HanLP分词器](https://github.com/lucky-xin/elasticsearch-analysis-hanlp.git)，ik分词器，pinyin分词器学习
+# [Elasticsearch HanLP分词器](https://github.com/lucky-xin/elasticsearch-analysis-hanlp.git)，ik分词器，pinyin分词器使用教程
 
 ## 1. 构建镜像
 --------
